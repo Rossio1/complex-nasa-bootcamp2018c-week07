@@ -1,0 +1,36 @@
+body {
+  font-family: 'Dosis', sans-serif;
+}
+
+.button {
+  margin: 0 auto;
+    text-align: center;
+    border: none;
+    border: 1px solid #333;
+    background: white;
+    padding: 20px;
+    box-shadow: black 5px 5px 5px;
+    transform: scale(1);
+}
+
+.button:hover {
+  transform: scale(1.1);
+}
+
+.table {
+  font-family: 'Dosis', sans-serif;
+  border: 1px solid #222;
+  margin: 0 auto;
+
+}
+
+.data {
+  border: 1px solid #333;
+  padding: 20px;
+  background: #333;
+  color: white;
+}
+
+.hide {
+  display: block;
+}
